@@ -7,12 +7,10 @@
 
     <style name="Theme.Caerlangs_calculator" parent="Base.Theme.Caerlangs_calculator" />
 
+    <!-- Shape for perfectly circular buttons -->
     <style name="CircleButton">
         <item name="cornerFamily">rounded</item>
         <item name="cornerSize">50%</item>
-    </style>
-
-
-
+     </style>
 
 </resources>
